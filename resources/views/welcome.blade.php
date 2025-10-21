@@ -58,7 +58,7 @@
     <nav class="bg-white shadow-md fixed w-full top-0 z-50">
         <div class="container mx-auto px-4 py-4">
             <div class="flex justify-between items-center">
-                <h1 class="text-2xl font-bold gradient-text">MS.</h1>
+                <h1 class="text-2xl font-bold gradient-text">Md.</h1>
                 <div class="hidden md:flex space-x-8">
                     <a href="#home" class="text-gray-700 hover:text-primary transition">Home</a>
                     <a href="#about" class="text-gray-700 hover:text-primary transition">About</a>
