@@ -113,7 +113,9 @@
                 <div class="md:w-1/2 flex justify-center">
                     <div class="w-80 h-80 bg-gradient-to-br from-primary to-secondary rounded-full flex items-center justify-center shadow-2xl">
                         <div class="w-72 h-72 bg-white rounded-full flex items-center justify-center">
-                            <svg class="w-40 h-40 text-primary" fill="currentColor" viewBox="0 0 24 24"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg>
+                            {{-- <svg class="w-40 h-40 text-primary" fill="currentColor" viewBox="0 0 24 24"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg> 
+                            --}}
+                            <img src="/profile.jpeg" alt="Profile Picture" class="w-72 h-72 rounded-full object-cover">
                         </div>
                     </div>
                 </div>
