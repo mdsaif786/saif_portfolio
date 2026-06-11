@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Md. Saifullah - Lead Software Developer | Full-Stack Engineer</title>
-    <meta name="description" content="Senior Software Engineer with 9+ years of experience in PHP, Laravel, React.js, AWS, and AI/ML integration. Specializing in scalable cloud-native applications and team leadership.">
-    <meta property="og:title" content="Md. Saifullah - Lead Software Developer">
-    <meta property="og:description" content="Building scalable, cloud-native solutions for modern businesses. 9+ years of full-stack development expertise.">
+    <title>Md. Saif - Engineering Manager & Leader | Full-Stack Engineer</title>
+    <meta name="description" content="Engineering Manager & Leader with 10+ years of experience in PHP, Laravel, React.js, AWS, and LLM/AI development. Specializing in scalable cloud-native applications and leading high-performing teams.">
+    <meta property="og:title" content="Md. Saif - Engineering Manager & Leader">
+    <meta property="og:description" content="Building scalable, cloud-native solutions for modern businesses. 10+ years of full-stack development expertise.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/1e40af/ffffff?text=Md.+Saifullah">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/1e40af/ffffff?text=Md.+Saif">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -90,10 +90,10 @@
             <div class="flex flex-col md:flex-row items-center justify-between">
                 <div class="md:w-1/2 mb-8 md:mb-0">
                     <p class="text-secondary font-semibold mb-2">Hello, I'm</p>
-                    <h1 class="text-5xl md:text-6xl font-bold mb-4">Md. Saifullah</h1>
-                    <h2 class="text-2xl md:text-3xl gradient-text font-semibold mb-4">Lead Software Developer</h2>
-                    <p class="text-xl text-gray-600 mb-6">Building Scalable Systems for Modern Businesses</p>
-                    <p class="text-gray-700 mb-8 leading-relaxed">9+ years of experience crafting cloud-native applications, leading high-performing teams, and integrating AI/ML solutions for enterprise success.</p>
+                    <h1 class="text-5xl md:text-6xl font-bold mb-4">Md. Saif</h1>
+                    <h2 class="text-2xl md:text-3xl gradient-text font-semibold mb-4">Engineering Manager & Leader</h2>
+                    <p class="text-xl text-gray-600 mb-6">Building & Scaling the Largest B2B Platform in the Energy Sector</p>
+                    <p class="text-gray-700 mb-8 leading-relaxed">10+ years of experience crafting cloud-native applications, leading high-performing teams of 20+ engineers, and building LLM &amp; AI-powered solutions for enterprise success.</p>
                     <div class="flex space-x-4">
                         <a href="#contact" class="bg-primary text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition font-medium">Get In Touch</a>
                         <a href="#projects" class="border-2 border-primary text-primary px-8 py-3 rounded-lg hover:bg-primary hover:text-white transition font-medium">View Projects</a>
@@ -130,17 +130,17 @@
             <div class="w-20 h-1 bg-gradient-to-r from-primary to-secondary mx-auto mb-12"></div>
             <div class="max-w-4xl mx-auto">
                 <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                    I'm a results-driven Senior Software Engineer with over 9 years of experience specializing in designing and delivering scalable, cloud-native PHP applications. My expertise spans across full-stack development, AI/ML integration, microservices architecture, and DevOps best practices.
+                    I'm a results-driven Engineering Manager & Leader with over 10 years of experience specializing in designing and delivering scalable, cloud-native PHP applications. My expertise spans across full-stack development, LLM & AI development, AI/ML integration, microservices architecture, and DevOps best practices.
                 </p>
                 <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                    Currently serving as a Senior Software Engineer & Team Lead at Power Cozmo, I manage a 12-member development team building CRM and marketplace platforms for the power generation and energy sector. I've successfully achieved ₹6L monthly cost savings through workflow optimization and maintained 99.99% uptime for mission-critical SaaS platforms.
+                    Currently serving as an Engineering Manager & Leader at Power Cozmo, I lead and manage a 20+ member development team building and scaling the largest B2B platform in the power generation and energy sector. I've maintained 99.99% uptime for mission-critical SaaS platforms while driving innovation through LLM and AI-powered automation.
                 </p>
                 <p class="text-lg text-gray-700 leading-relaxed mb-6">
                     Beyond technical implementation, I'm passionate about mentoring junior developers, establishing code quality best practices, and driving innovation through agile methodologies. My approach combines strategic thinking with hands-on technical expertise to deliver solutions that align with business objectives.
                 </p>
                 <div class="grid md:grid-cols-3 gap-6 mt-12">
                     <div class="text-center p-6 bg-blue-50 rounded-lg">
-                        <div class="text-4xl font-bold text-primary mb-2">9+</div>
+                        <div class="text-4xl font-bold text-primary mb-2">10+</div>
                         <div class="text-gray-600">Years Experience</div>
                     </div>
                     <div class="text-center p-6 bg-blue-50 rounded-lg">
@@ -148,7 +148,7 @@
                         <div class="text-gray-600">Projects Delivered</div>
                     </div>
                     <div class="text-center p-6 bg-blue-50 rounded-lg">
-                        <div class="text-4xl font-bold text-primary mb-2">12</div>
+                        <div class="text-4xl font-bold text-primary mb-2">20+</div>
                         <div class="text-gray-600">Team Members Led</div>
                     </div>
                 </div>
@@ -206,6 +206,10 @@
                             <div class="text-3xl mb-2">🔧</div>
                             <div class="font-medium">Microservices</div>
                         </div>
+                        <div class="bg-white p-4 rounded-lg shadow-sm text-center card-hover">
+                            <div class="text-3xl mb-2">🤖</div>
+                            <div class="font-medium">LLM & AI Development</div>
+                        </div>
                     </div>
                 </div>
 
@@ -237,6 +241,9 @@
                             <span class="skill-tag bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200">Elasticsearch</span>
                             <span class="skill-tag bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200">REST APIs</span>
                             <span class="skill-tag bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200">AI Integration</span>
+                            <span class="skill-tag bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200">LLM Development</span>
+                            <span class="skill-tag bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200">Langchain</span>
+                            <span class="skill-tag bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200">RAG</span>
                             <span class="skill-tag bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200">Milli-Search</span>
                             <span class="skill-tag bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200">Typesense</span>
                             <span class="skill-tag bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200">Agentic AI</span>
@@ -261,13 +268,13 @@
                         <div class="absolute -left-11 top-0 w-6 h-6 bg-primary rounded-full border-4 border-white"></div>
                         <div class="bg-gray-50 p-6 rounded-lg card-hover">
                             <div class="flex flex-wrap justify-between items-start mb-2">
-                                <h3 class="text-2xl font-bold text-gray-800">Senior Software Engineer & Team Lead</h3>
+                                <h3 class="text-2xl font-bold text-gray-800">Engineering Manager & Leader</h3>
                                 <span class="text-sm text-gray-600 bg-blue-100 px-3 py-1 rounded-full">Sep 2024 - Present</span>
                             </div>
                             <p class="text-primary font-semibold mb-4">Power Cozmo</p>
                             <ul class="space-y-2 text-gray-700">
-                                <li class="flex items-start"><span class="text-secondary mr-2">▹</span> Managing 12-member development team building CRM and marketplace platforms for the power generation and energy sector</li>
-                                <li class="flex items-start"><span class="text-secondary mr-2">▹</span> Achieved ₹6L monthly cost savings through workflow optimization and strategic resource management</li>
+                                <li class="flex items-start"><span class="text-secondary mr-2">▹</span> Leading and managing a 20+ member development team building and scaling the largest B2B platform in the power generation and energy sector</li>
+                                <li class="flex items-start"><span class="text-secondary mr-2">▹</span> Driving LLM & AI development initiatives, integrating agentic AI and LLM-powered automation across products</li>
                                 <li class="flex items-start"><span class="text-secondary mr-2">▹</span> Implemented agile delivery through systematic code reviews and sprint planning</li>
                                 <li class="flex items-start"><span class="text-secondary mr-2">▹</span> Spearheading cross-platform integration projects connecting CRM with marketplace functionalities</li>
                                 <li class="flex items-start"><span class="text-secondary mr-2">▹</span> Driving technical architecture decisions for scalable energy sector solutions</li>
@@ -350,7 +357,7 @@
                         
                         <div class="bg-white p-6 rounded-lg shadow-md card-hover">
                             <h4 class="text-xl font-bold mb-3 text-gray-800">Power Cozmo</h4>
-                            <p class="text-gray-600 mb-4">CRM and marketplace platform for power generation sector with advanced analytics and automation.</p>
+                            <p class="text-gray-600 mb-4">The largest B2B platform in the power generation & energy sector — CRM and marketplace with advanced analytics, LLM automation, and scaling infrastructure.</p>
                             <div class="mb-4">
                                 <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded mr-2">Laravel</span>
                                 <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded mr-2">React.js</span>
@@ -360,6 +367,20 @@
                             </div>
                            
                             <a href="https://dev.powercozmo.com/" target="_blank" class="text-secondary hover:text-primary font-medium flex items-center">
+                                Visit Site <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                            </a>
+                        </div>
+                        <div class="bg-white p-6 rounded-lg shadow-md card-hover">
+                            <h4 class="text-xl font-bold mb-3 text-gray-800">Goglo</h4>
+                            <p class="text-gray-600 mb-4">AI-powered SaaS platform with LLM-driven automation and intelligent workflows.</p>
+                            <div class="mb-4">
+                                <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded mr-2">Laravel</span>
+                                <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded mr-2">Next.js</span>
+                                <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded mr-2">Node.js</span>
+                                <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded mr-2">LLM</span>
+                                <span class="text-xs bg-purple-100 text-purple-700 px-2 py-1 rounded">Langchain</span>
+                            </div>
+                            <a href="https://beta.goglo.com" target="_blank" class="text-secondary hover:text-primary font-medium flex items-center">
                                 Visit Site <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
                             </a>
                         </div>
@@ -1073,7 +1094,7 @@
     <footer class="bg-gray-900 text-white py-8">
         <div class="container mx-auto px-4">
             <div class="text-center">
-                <p class="text-gray-400">&copy; 2025 Md. Saifullah. All rights reserved.</p>
+                <p class="text-gray-400">&copy; 2025 Md. Saif. All rights reserved.</p>
                 <p class="text-gray-500 mt-2">Built with passion and code ❤️</p>
             </div>
         </div>
